@@ -1,3 +1,4 @@
+//Design class to represent a bank account with data members name, account-number, account-type and balance and functions to assign initial....
 #include<iostream>
 using namespace std;
 
